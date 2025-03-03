@@ -4,4 +4,4 @@
 
 Eithan Bernal
 
-El código está en [link](/src/tacometro.inu)
+El código está en [link](/src/tacometro.ino)
