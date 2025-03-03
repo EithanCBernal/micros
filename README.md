@@ -1,1 +1,5 @@
 # micros
+
+## Integrantes
+
+Eithan Bernal
